@@ -1,0 +1,8 @@
+rootProject.name = "ZServiceProvider"
+include ':app'
+include ':sprovider-annotation'
+include ':sprovider-processor'
+include ':sprovider-api'
+include ':app:test1'
+include ':app:test2'
+include ':app:testcommon'
